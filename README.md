@@ -15,13 +15,13 @@
 
 
 ## Table
-| 개념 | 정리파일 | 작성자 | 작성날짜 |
+| 개념 | 정리파일 | 작성자 | 작성주차 |
 | ------ | -- | -- | --|
 | Algorithm |  |  | |
 | Data Structure |  |  | |
-| Database | [01. 트랜잭션과 격리수준](https://neat-vest-cdf.notion.site/f12b11062d184f6d97f46019dd8c20ea) | hwilyric | 2022.09.21 |
+| Database | [01. 트랜잭션과 격리수준](https://neat-vest-cdf.notion.site/f12b11062d184f6d97f46019dd8c20ea) | hwilyric | 1주차 |
 | JAVA |  |  | |
-| Network | [01. 웹통신의 흐름.md]() | roopre | 2022.09.21 |
-| OOP | [01. 디자인패턴.md]() | hyerm | 2022.09.21 |
-| OS |  |  | |
+| Network | [01. 웹통신의 흐름.md]() | roopre | 1주차 |
+| OOP | [01. 디자인패턴.md]() | hyerm | 1주차 |
+| OS | [01. 운영체제와 컴퓨터.md]() | hyerm | 2주차 |
 | Software Engineering |  |  | |
