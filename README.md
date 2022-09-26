@@ -18,7 +18,7 @@
 | 개념 | 정리파일 | 작성자 | 작성주차 |
 | ------ | -- | -- | --|
 | Algorithm |  |  | |
-| Data Structure |  |  | |
+| Data Structure | [01. 자료구조.md]() | kayeong | 1주차 |
 | Database | [01. 트랜잭션과 격리수준](https://neat-vest-cdf.notion.site/f12b11062d184f6d97f46019dd8c20ea) | hwilyric | 1주차 |
 | JAVA |  |  | |
 | Network | [01. 웹통신의 흐름.md]() | roopre | 1주차 |
